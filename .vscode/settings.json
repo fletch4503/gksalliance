@@ -1,0 +1,9 @@
+{
+  "python.analysis.typeCheckingMode": "off",
+  "python.linting.enabled": false,
+  "ruff.enable": true,
+  "ruff.lint.enable": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "ms-python.black-formatter",
+  "python.terminal.activateEnvironment": true
+}
